@@ -1,6 +1,6 @@
 # Neomer Extraction Pipeline
 
-<a href="https://ibb.co/Xx14vtmf"><img src="https://i.ibb.co/zVp50ZKW/second-neomers-extraction-drawio-3.png" alt="second-neomers-extraction-drawio-3" border="0"></a>
+[second-neomers-extraction-drawio-2.png](https://postimg.cc/SXTvhDS9)
 
 ## Summary
 This pipeline orchestrates the extraction of neomers from mutation data through the following high-level steps:
