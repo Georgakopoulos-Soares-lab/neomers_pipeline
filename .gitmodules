@@ -1,0 +1,6 @@
+[submodule "KMC"]
+	path = KMC
+	url = https://github.com/refresh-bio/KMC.git
+[submodule "seqtk"]
+	path = seqtk
+	url = https://github.com/lh3/seqtk.git
